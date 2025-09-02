@@ -1,0 +1,17 @@
+{
+  "token": "",
+  "clientId": "",
+  "guildId": "",
+  "mongoURI": "",
+  "status": {
+    "type": "WATCHING",
+    "message": ""
+  },
+  "giveaway": {
+    "hostedBy": true,
+    "defaultColor": "#FF0000",
+    "defaultEmoji": "🎉",
+    "reaction": "🎉",
+    "allowMultipleWinners": true
+  }
+}

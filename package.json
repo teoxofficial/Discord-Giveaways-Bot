@@ -1,0 +1,16 @@
+{
+  "name": "advanced-giveaway-bot",
+  "version": "1.0.0",
+  "description": "Aşırı gelişmiş Discord çekiliş botu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "@discordjs/rest": "^1.5.0",
+    "discord-api-types": "^0.37.36",
+    "mongoose": "^6.8.4",
+    "ms": "^2.1.3"
+  }
+}
